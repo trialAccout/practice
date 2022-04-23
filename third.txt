@@ -3,3 +3,5 @@ This is the third text file.
 
 There's a line :- 
 "First you learn, then remove 'l'" ~Elon Musk
+
+There's a line from master branch.
