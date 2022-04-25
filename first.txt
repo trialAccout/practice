@@ -3,3 +3,6 @@ This is the first text file.
 
 There's a line :- 
 "A quick brown fox jumps over the lazy dogs"
+
+This is another line for learning comapare
+Hey there!
